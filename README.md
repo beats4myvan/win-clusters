@@ -1,4 +1,4 @@
-# 3 cases
+# #3 cases#
 
 # Links
 
@@ -13,7 +13,7 @@ https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server
 
 https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc733056%28v%3dws.10%29
 
-# Failover Clustering in Windows Server
+#Failover Clustering in Windows Server
 
 https://docs.microsoft.com/en-us/windows-server/failover-clustering/failover-clustering-overview
 
